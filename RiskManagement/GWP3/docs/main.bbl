@@ -1,0 +1,125 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{genc2019optimal}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bbabe9a3c943c9d1e49cb284b9c75095}{%
+           family={Genç},
+           familyi={G\bibinitperiod},
+           given={Burak},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=318973a84b16a3bc2d71cdf3e5fedca1}{%
+           family={Tunç},
+           familyi={T\bibinitperiod},
+           given={Hakan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {The Scientific}%
+        {Technological Research Council of Turkey}%
+      }
+      \strng{namehash}{4df01142a2f5600df3cd4f6dbe5972d0}
+      \strng{fullhash}{4df01142a2f5600df3cd4f6dbe5972d0}
+      \strng{bibnamehash}{4df01142a2f5600df3cd4f6dbe5972d0}
+      \strng{authorbibnamehash}{4df01142a2f5600df3cd4f6dbe5972d0}
+      \strng{authornamehash}{4df01142a2f5600df3cd4f6dbe5972d0}
+      \strng{authorfullhash}{4df01142a2f5600df3cd4f6dbe5972d0}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Turkish Journal of Electrical Engineering and Computer Sciences}
+      \field{number}{2}
+      \field{title}{Optimal training and test sets design for machine learning}
+      \field{volume}{27}
+      \field{year}{2019}
+      \field{pages}{1534\bibrangedash 1545}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3906/elk-1807-212
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3906/elk-1807-212
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3906/elk-1807-212
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{genc2019optimal}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bbabe9a3c943c9d1e49cb284b9c75095}{%
+           family={Genç},
+           familyi={G\bibinitperiod},
+           given={Burak},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=318973a84b16a3bc2d71cdf3e5fedca1}{%
+           family={Tunç},
+           familyi={T\bibinitperiod},
+           given={Hakan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {The Scientific}%
+        {Technological Research Council of Turkey}%
+      }
+      \strng{namehash}{4df01142a2f5600df3cd4f6dbe5972d0}
+      \strng{fullhash}{4df01142a2f5600df3cd4f6dbe5972d0}
+      \strng{bibnamehash}{4df01142a2f5600df3cd4f6dbe5972d0}
+      \strng{authorbibnamehash}{4df01142a2f5600df3cd4f6dbe5972d0}
+      \strng{authornamehash}{4df01142a2f5600df3cd4f6dbe5972d0}
+      \strng{authorfullhash}{4df01142a2f5600df3cd4f6dbe5972d0}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Turkish Journal of Electrical Engineering and Computer Sciences}
+      \field{number}{2}
+      \field{title}{Optimal training and test sets design for machine learning}
+      \field{volume}{27}
+      \field{year}{2019}
+      \field{pages}{1534\bibrangedash 1545}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3906/elk-1807-212
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3906/elk-1807-212
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3906/elk-1807-212
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

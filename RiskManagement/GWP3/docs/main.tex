@@ -1,5 +1,9 @@
 \documentclass{article}[14pt]
+\usepackage[a4paper, total={6in, 8in}]{geometry}
 \usepackage[english]{babel}
+\usepackage[style=apa, backend=biber]{biblatex}
+\addbibresource{citations.bib} % or your .bib file name
+\DeclareLanguageMapping{american}{american-apa} % Ensures APA f
 \usepackage[utf8x]{inputenc}
 \usepackage{amsmath}
 \usepackage{graphicx}
@@ -10,26 +14,28 @@
 \usepackage{verbatim}
 \usepackage{eurosym}
 \usepackage[export]{adjustbox}
-
-
-
+\usepackage{booktabs}
+\usepackage{float}
 \begin{document}
 
+
+\linespread{1.25}
 \include{title}
 
 \tableofcontents
 
 \newpage
-\section{Introduction}
-This is the introduction section.
 
-\section{Main Content}
-This is the main content section.
-
-\subsection{Subsection}
-This is a subsection.
-
-\section{Conclusion}
-This is the conclusion section.
+\section{Training, Test and Validation Sets}
+\input{inputs/train_test_val.tex}
+\section{Model Replication of the Hill Climbing Algorithm}
+\input{inputs/model_replication.tex}
+\section{Model Validation Process}
+\input{inputs/model_validation.tex}
+\section{Visualisation Techniques}
+\input{inputs/visualisation.tex}
+\section{Predictive Accuracy of the Model}
+\section{Contribution of the Study}
+\printbibliography
 
 \end{document}

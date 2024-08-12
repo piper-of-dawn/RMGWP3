@@ -1,5 +1,17 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}Introduction}{2}{}%
-\contentsline {section}{\numberline {2}Main Content}{2}{}%
-\contentsline {subsection}{\numberline {2.1}Subsection}{2}{}%
-\contentsline {section}{\numberline {3}Conclusion}{2}{}%
+\contentsline {section}{\numberline {1}Training, Test and Validation Sets}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Training Set}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Validation Set}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Testing Set}{4}{}%
+\contentsline {subsection}{\numberline {1.4}Overfitting}{5}{}%
+\contentsline {subsection}{\numberline {1.5}Underfitting}{5}{}%
+\contentsline {section}{\numberline {2}Model Replication of the Hill Climbing Algorithm}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Initial Probabilities}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Transition Matrix}{6}{}%
+\contentsline {subsection}{\numberline {2.3}Emission Probabilities}{6}{}%
+\contentsline {section}{\numberline {3}Model Validation Process}{6}{}%
+\contentsline {section}{\numberline {4}Visualisation Techniques}{7}{}%
+\contentsline {subsection}{\numberline {4.1}Heatmaps}{7}{}%
+\contentsline {subsection}{\numberline {4.2}Directed Acyclic Graphs}{7}{}%
+\contentsline {section}{\numberline {5}Predictive Accuracy of the Model}{8}{}%
+\contentsline {section}{\numberline {6}Contribution of the Study}{8}{}%
